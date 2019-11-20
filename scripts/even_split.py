@@ -9,7 +9,7 @@
 import random
 
 def even_split():
-    samples = 10000
+    samples = 1000000
     total = 0
 
     for i in range(samples):
