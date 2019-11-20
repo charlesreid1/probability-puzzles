@@ -12,12 +12,14 @@
 import random
 
 def flippant_juror():
-    samples = 10000
+    samples = 1000000
     correct = 0
 
+    P = 0.2
+
     for i in range(samples):
-        juror1 = random.random() < 0.8
-        juror2 = random.random() < 0.8
+        juror1 = random.random() < P
+        juror2 = random.random() < P
         juror3 = random.random() < 0.5
 
         # check to see if two out of three jurors came
@@ -27,7 +29,8 @@ def flippant_juror():
             correct += 1
 
     average = correct / samples
-    print("Probability of correct decision:", average)
+    print("One-person jury probability:", P)
+    print("Three-person jury probability:", average)
 
 
 if __name__ == '__main__':
