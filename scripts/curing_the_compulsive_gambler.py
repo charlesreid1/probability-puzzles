@@ -14,27 +14,37 @@
 import random
 
 def curing_the_compulsive_gambler():
-    samples = 10000
+    samples = 100000
     total = 0
+    total_wins = 0
+    total_brown = 0
 
     for i in range(samples):
         bank = 0
+        wins = 0
         for j in range(36):
             spin = random.randint(1, 38)
             if spin == 13:
                 bank += 35
+                wins += 1
             else:
                 bank -= 1
 
         if bank >= 0:
             bank += 20
+            total_brown += 1
         else:
             bank -= 20
 
         total += bank
+        total_wins += wins
 
     average = total / samples
+    average_wins = total_wins / samples
+    average_brown = total_brown / samples
+    print("Average prob of winning after 36 spins:", average_wins)
     print("Average winnings after 36 spins:", average)
+    print("Average number of times brown gets paid:", average_brown)
         
 
 if __name__ == '__main__':
