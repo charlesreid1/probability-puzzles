@@ -18,21 +18,23 @@ def successive_wins():
     cfc_wins = 0
 
     # assume Elmer has an 80% chance of winning against his father
-    # and only a 40% chance of winning agains the club champion.
+    wf = .80
+    # and only a 40% chance of winning against the club champion.
+    wc = .40
 
     for i in range(samples):
         # father-champion-father series
-        set1 = random.random() < 0.8
-        set2 = random.random() < 0.4
-        set3 = random.random() < 0.8
+        set1 = random.random() < wf
+        set2 = random.random() < wc
+        set3 = random.random() < wf
 
         if (set1 and set2) or (set2 and set3):
             fcf_wins += 1
 
         # champion-father-champion series
-        set1 = random.random() < 0.4
-        set2 = random.random() < 0.8
-        set3 = random.random() < 0.4
+        set1 = random.random() < wc
+        set2 = random.random() < wf
+        set3 = random.random() < wc
 
         if (set1 and set2) or (set2 and set3):
             cfc_wins += 1
