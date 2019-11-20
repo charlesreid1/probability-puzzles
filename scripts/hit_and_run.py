@@ -17,7 +17,7 @@
 import random
 
 def hit_and_run():
-    samples = 10000
+    samples = 1000000
     id_blue = 0
     both_blue = 0
 
@@ -28,7 +28,7 @@ def hit_and_run():
         if cab_blue and witness_correct:
             both_blue += 1
             id_blue += 1
-            
+
         if (not cab_blue) and (not witness_correct):
             id_blue += 1
 
