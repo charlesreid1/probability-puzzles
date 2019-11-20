@@ -6,7 +6,7 @@
 import random
 
 def infinite_monkeys():
-    samples = 100000
+    samples = 1000000
     iagos = 0
     lears = 0
 
