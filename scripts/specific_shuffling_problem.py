@@ -13,9 +13,12 @@
 
 import random
 
+Niter = 10
+Ncards = 13
+
 def specific_shuffle():
     samples = 100000
-    deck = [ 1, 2, 3, 4, 5, 6, 7 ]
+    deck = list(range(1,Ncards+1))
     reversals = 0
 
     for i in range(samples):
@@ -28,13 +31,10 @@ def specific_shuffle():
             rev += 1
         if rev > reversals:
             reversals = rev
-            print(rev, orig_deck)
+            print("%3d %s"%(rev, orig_deck))
 
     print("Maximum number of reversals:", reversals)
 
-    
-
-
-
 if __name__ == '__main__':
-    specific_shuffle()
+    for i in range(Niter):
+        specific_shuffle()
