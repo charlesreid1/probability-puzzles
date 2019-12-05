@@ -10,16 +10,19 @@
 import random
 
 def first_ace():
-    samples = 10000
+    Ncards = 52
+    Naces = 4
+
+    samples = 100000
     total = 0
 
     for i in range(samples):
-        deck = [x for x in range(52)]
+        deck = [x for x in range(Ncards)]
         random.shuffle(deck)
 
         count = 1
         for card in deck:
-            if card < 4:
+            if card < Naces:
                 break
             else:
                 count += 1
@@ -27,6 +30,7 @@ def first_ace():
 
     average = total / samples
     print("Average number of cards until the first ace:", average)
+    print("Expected position:", (Ncards+1)/(Naces+1))
 
 
 if __name__ == '__main__':
