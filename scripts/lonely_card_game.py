@@ -17,7 +17,7 @@
 import random
 
 def lonely_card_game():
-    samples = 10000
+    samples = 100000
     wins = 0
 
     deck1 = [(x % 13) for x in range(52)]
