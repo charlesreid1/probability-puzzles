@@ -50,3 +50,13 @@ The following problems come from various other sources.
 * [Theater Seats](scripts/theater_seats.py) (From [7 friends are going to the cinema...](https://math.stackexchange.com/q/2332589/271304)) - Out of seven movie-goers, what is the probability that two friends won't sit together?
 * [Draw Two](scripts/draw_two.py) (From [Patrick Honner on Twitter](https://twitter.com/MrHonner/status/917546796322377728)) - Two numbers are drawn from the integers 1-10. What's the expected value of their sum?
 
+**Extra**
+
+* [Carnival Barker](scripts/carnival_barker.py) (from [John Allen Paulos on Twitter](https://twitter.com/JohnAllenPaulos/status/1050387226499133445)) - Pick a number 1-6 and roll 3 die. If your numer comes up 3x, you win $30; if 2x, you win $20; if 1x, you win $10; if 0x, you lose $10. What is the expected value of your winnings?
+* [Chance of Dying](scripts/chance_of_dying.py) - Given 19 6-sided dice, what are the chances of rolling a sum of 57 or greater? 
+* [Flipping 100 Coins](scripts/flipping_n_coins.py) - You start with 100 coins. Each round, you flip all coins. Re-flip any coins that come up heads. How many rounds until 1 coin remains? (Variation: what if you start with 1000 coins?)
+* [Flipping Four Coins](scripts/four_flips.py) - Bet: you flip a fair coin four times. If heads/tails both appear twice, you get $11. If not, you pay $10. Do you take the bet?
+* [Lonely Card Game](scripts/lonely_card_game.py) - Deal a shuffled deck of cards one at a time, while enumerating each card A 2 3 ... K etc. If the enumerated rank matches the card rank, you lose. What is the probability of winning?
+* [How Long Will You Shuffle This Damn Deck Of Cards](scripts/specific_shuffling_problem.py) - (from [Five Thirty Eight](https://fivethirtyeight.com/features/how-long-will-you-shuffle-this-damn-deck-of-cards/)) - Suppose you have 13 cards numbered 1, 2, ... 13. Shuffle, draw first card, reverse the order of K cards (K is the number drawn). Repeat until you draw 1. What is largest number of reversals?
+* [State Names Letter Frequency](scripts/state_names.py) - What is the frequency of the letter N in the names of states?
+* [Three Flips](scripts/three_flips.py) - A game has a $10 fee to play. You flip a fair coin 3x. For the first heads, you get $5. For second heads, you get $7. For third heads, you get $9. Do you pay to play the game?
