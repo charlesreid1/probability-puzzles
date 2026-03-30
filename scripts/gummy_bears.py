@@ -1,3 +1,9 @@
+"""
+Gummy Bears
+
+There are 12 flavors of gummy bears. Assume evenly represented. If I have a bag of 120 gummy bears, what are the chances that if I select 5 random ones, each of the 5 will be different flavors? From: https://twitter.com/BecomingDataSci/status/826635249341911044
+"""
+
 # Gummy Bears
 #
 # There are 12 flavors of gummy bears. Assume evenly represented.

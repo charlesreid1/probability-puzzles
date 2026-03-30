@@ -1,3 +1,9 @@
+"""
+A specific shuffling problem:
+
+Suppose you have a shuffled deck containing 13 cards. Each card has a number from 1 to 13 and each number appears on exactly one card. You look at the number on the first card — suppose it’s k — and then you reverse the order of the first k cards. You continue this procedure — reading the first card’s number and then reversing the order of the corresponding number of cards — until the first card reads 1. Clearly, the number of reversals depends on the initial order of the cards. What is the largest number of reversals that you might have to do? What order are the cards in before you start shuffling the maximum-reversal deck? Extra credit: What if the deck contains 53 cards?
+"""
+
 # A specific shuffling problem:
 # Suppose you have a shuffled deck containing 13 cards. Each card has a number
 # from 1 to 13 and each number appears on exactly one card. You look at the

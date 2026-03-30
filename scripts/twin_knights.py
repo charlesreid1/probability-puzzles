@@ -1,3 +1,9 @@
+"""
+Twin Knights
+
+(a) Suppose King Arthur holds a jousting tournament where the jousts are in pairs as in a tennis tournament. The 8 knights in the tournament are evenly matched, and they include the twin knights Balin and Balan. What is the chance that the twins meet in a match during the tournament? (b) Replace 8 by 2^n in the above problem. Now what is the chance they meet? From: Fifty Challenging Problems in Probability by Frederick Mosteller Problem 17
+"""
+
 # Twin Knights
 # (a) Suppose King Arthur holds a jousting tournament where the jousts are
 # in pairs as in a tennis tournament. The 8 knights in the tournament are

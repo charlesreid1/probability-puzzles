@@ -1,3 +1,9 @@
+"""
+The Flippant Juror
+
+A three-man jury has two members each of whom independently has probability p of making the correct decision and a third member who flips a coin for each decision (majority rules). A one-man jury has probability p of making the correct decision. Which jury has the better probability of making the correct decision? From: Fifty Challenging Problems in Probability by Frederick Mosteller Problem 3
+"""
+
 # The Flippant Juror
 # A three-man jury has two members each of whom independently has
 # probability p of making the correct decision and a third member

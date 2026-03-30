@@ -1,3 +1,9 @@
+"""
+Lengths of Random Chords
+
+If a chord is selected at random on a fixed circle, what is the probability that its length exceeds the radius of the circle? From: Fifty Challenging Problems in Probability by Frederick Mosteller Problem 25
+"""
+
 # Lengths of Random Chords
 # If a chord is selected at random on a fixed circle, what is the probability
 # that its length exceeds the radius of the circle?

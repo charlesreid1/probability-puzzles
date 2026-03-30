@@ -1,3 +1,9 @@
+"""
+Craps
+
+The game of craps, played with two dice, is one of America's fastest and most popular gambling games. Calculating the odds associated with it is an instructive exercise. The rules are these. Only totals for the two dice count. The player throws the dice and wins at once if the total for the first throw is 7 or 11, loses at once if it is 2, 3, or 12. Any other throw is called his "point." If the first throw is a point, the player throws the dice repeatedly, until he either wins by throwing his point again or loses by throwing 7. What is the player's chance to win? From: Fifty Challenging Problems in Probability by Frederick Mosteller Problem 9
+"""
+
 # Craps
 # The game of craps, played with two dice, is one of America's fastest
 # and most popular gambling games. Calculating the odds associated with

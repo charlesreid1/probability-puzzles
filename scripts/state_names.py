@@ -1,3 +1,9 @@
+"""
+State names letter frequency
+
+Simulation or calculation for the 'State names letter frequency' probability puzzle.
+"""
+
 # State names letter frequency
 
 def state_names():

@@ -1,3 +1,9 @@
+"""
+The First Ace
+
+Shuffle an ordinary deck of 52 playing cards containing four aces. Then turn up cards from the top until the first ace appears. On the average, how many cards are required until the first ace appears? From: Fifty Challenging Problems in Probability by Frederick Mosteller Problem 40
+"""
+
 # The First Ace
 # Shuffle an ordinary deck of 52 playing cards containing four aces.
 # Then turn up cards from the top until the first ace appears.

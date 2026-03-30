@@ -1,3 +1,9 @@
+"""
+Theater Seats
+
+To watch a movie, John, Mary and 5 friends will sit randomly in a row with 7 seats. What is the probability John and Mary won't sit together?
+"""
+
 # Theater Seats
 # To watch a movie, John, Mary and 5 friends will sit randomly in
 # a row with 7 seats. What is the probability John and Mary won't

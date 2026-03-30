@@ -1,3 +1,9 @@
+"""
+Carnival barker asks you to pick a # from 1 to 6.
+
+Then he rolls 3 dice. If your number comes up all 3 times, you win $30, if twice $20, if once $10, if 0 times, you lose $10. What is expected value of your winnings.
+"""
+
 # Carnival barker asks you to pick a # from 1 to 6.
 # Then he rolls 3 dice. If your number comes up all 3 times,
 # you win $30, if twice $20, if once $10, if 0 times, you lose $10.

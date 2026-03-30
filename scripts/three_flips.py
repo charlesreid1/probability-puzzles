@@ -1,3 +1,9 @@
+"""
+Three flips
+
+The following game has a $10 entry fee. You are to flip a fair coin three times. The first time it comes up heads you are paid $5. The second time it comes up heads you're paid an additional $7. The third time it comes up heads you're paid $9 more, for a possible maximum prize of $21. Would you pay the $10 entry fee to play?
+"""
+
 # Three flips
 # The following game has a $10 entry fee.
 # You are to flip a fair coin three times.

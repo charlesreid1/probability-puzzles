@@ -1,3 +1,9 @@
+"""
+Curing the Compulsive Gambler
+
+Mr. Brown always bets a dollar on the number 13 at roulette against the advice of Kind Friend. To help cure Mr. Brown of playing roulette, Kind Friend always bets Brown $20 at even money that Brown will be behind at the end of 36 plays. How is the cure working? (Most American roulette wheels have 38 equally likely numbers. If the player's number comes up, he is paid 35 times his stake and gets his original stake back; otherwise he loses his stake.) From: Fifty Challenging Problems in Probability by Frederick Mosteller Problem 7
+"""
+
 # Curing the Compulsive Gambler
 # Mr. Brown always bets a dollar on the number 13 at roulette against
 # the advice of Kind Friend. To help cure Mr. Brown of playing roulette,

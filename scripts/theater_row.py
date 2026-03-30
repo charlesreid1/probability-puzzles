@@ -1,3 +1,9 @@
+"""
+The Theater Row
+
+Eight eligible bachelors and seven beautiful models happen randomly to have purchased single seats in a 15-seat row of a theater. On the average, how many pairs of adjacent seats are ticketed for marriageable couples? From: Fifty Challenging Problems in Probability by Frederick Mosteller Problem 15
+"""
+
 # The Theater Row
 # Eight eligible bachelors and seven beautiful models
 # happen randomly to have purchased single seats in a

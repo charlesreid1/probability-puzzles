@@ -1,3 +1,9 @@
+"""
+Quiz Answers
+
+Say you're writing a math quiz game, and for each question, you want to present three possible answers. A naive approach to generating the possible answers would be to calculate the correct answer, then adding/subtracting a random amount to that for the wrong answers. Even the most inattentive players would eventually learn to just pick the middle answer. Create a strategy for automatically generating answers so that the correct answer is the lowest choice 1/3 of the time, the middle choice 1/3 of the time, and the highest choice 1/3 of the time.
+"""
+
 # Quiz Answers
 # Say you're writing a math quiz game, and for each question,
 # you want to present three possible answers. A naive approach to

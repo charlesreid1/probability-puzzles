@@ -1,3 +1,9 @@
+"""
+Catching the Cautious Counterfeiter
+
+(a) The king's minter boxes his coins 100 to a box. In each box he puts 1 false coin. The king suspects the minter and from each of 100 boxes draws a random coin and has it tested. What is the chance the minter's peculations go undetected? (b) What if both 100s are replaced by n? From: Fifty Challenging Problems in Probability by Frederick Mosteller Problem 27
+"""
+
 # Catching the Cautious Counterfeiter
 # (a) The king's minter boxes his coins 100 to a box. In each box
 # he puts 1 false coin. The king suspects the minter and from each

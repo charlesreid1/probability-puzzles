@@ -1,3 +1,9 @@
+"""
+The Little End of the Stick
+
+(a) if a stick is broken in two at random, what is the average length of the smaller piece? (b) (For calculus students.) What is the average ratio of the smaller length to the larger? From: Fifty Challenging Problems in Probability by Frederick Mosteller Problem 42
+"""
+
 # The Little End of the Stick
 # (a) if a stick is broken in two at random, what is the average length
 # of the smaller piece?

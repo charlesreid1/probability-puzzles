@@ -1,3 +1,9 @@
+"""
+Chances of dying
+
+Given 19 6-sided dice, what are the chances of rolling a sum of 57 or greater?
+"""
+
 # Chances of dying
 # Given 19 6-sided dice, what are the chances of rolling a sum of 57 or greater?
 

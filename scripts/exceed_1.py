@@ -1,3 +1,9 @@
+"""
+Exceed 1
+
+Choose a random number between 0 and 1 and record its value. Do this again and add the second number to the first number. Keep doing this until the sum of the numbers exceeds 1. What's the expected value of the number of random numbers needed to accomplish this?
+"""
+
 # Exceed 1
 # Choose a random number between 0 and 1 and record its value.
 # Do this again and add the second number to the first number.

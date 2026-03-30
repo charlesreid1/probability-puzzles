@@ -1,3 +1,9 @@
+"""
+Will Second-Best Be Runner-Up?
+
+A tennis tournament has 8 players. The number a player draws from a hat decides his first-round run in the tournament ladder. Suppose that the best player always defeats the next best and that the latter always defeats all the rest. The loser of the finals gets the runner-up cup. What is the chance that the second-best player wins the runner-up cup? From: Fifty Challenging Problems in Probability by Frederick Mosteller Problem 16
+"""
+
 # Will Second-Best Be Runner-Up?
 # A tennis tournament has 8 players. The number a player draws from a
 # hat decides his first-round run in the tournament ladder.

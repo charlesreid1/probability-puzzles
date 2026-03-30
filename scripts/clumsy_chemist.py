@@ -1,3 +1,9 @@
+"""
+The Clumsy Chemist
+
+In a laboratory, each of a handful of thin 9-inch glass rods had one tip marked with a blue dot and the other with a red. When the laboratory assistant tripped and dropped them onto the concrete floor, many broke into three pieces. For these, what was the average length of the fragment with the blue dot? From: Fifty Challenging Problems in Probability by Frederick Mosteller Problem 39
+"""
+
 # The Clumsy Chemist
 # In a laboratory, each of a handful of thin 9-inch glass rods had one tip
 # marked with a blue dot and the other with a red. When the laboratory

@@ -1,3 +1,9 @@
+"""
+Gambler's Ruin
+
+Player M has $1, and Player N has $2. Each play gives one of the players $1 from the other. Player M is enough better than Player N that he wins 2/3 of the plays. They play until one is bankrupt. What is the chance that Player M wins? From: Fifty Challenging Problems in Probability by Frederick Mosteller Problem 36
+"""
+
 # Gambler's Ruin
 # Player M has $1, and Player N has $2. Each play gives one of the
 # players $1 from the other. Player M is enough better than Player N
