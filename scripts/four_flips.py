@@ -4,12 +4,6 @@ Four flips
 You are to flip a fair coin four times. If heads and tails each appear twice in four flips, he will pay you $11. If they don't, you must pay $10. Do you take the bet?
 """
 
-# Four flips
-# You are to flip a fair coin four times.
-# If heads and tails each appear twice in four flips,
-# he will pay you $11. If they don't, you must pay $10.
-# Do you take the bet?
-
 import random
 
 def four_flips():

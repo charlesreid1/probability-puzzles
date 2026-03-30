@@ -4,10 +4,6 @@ Yahtzee!
 What is the probability of rolling five of a kind when rolling five six-sided dice three times?
 """
 
-# Yahtzee!
-# What is the probability of rolling five of a kind when rolling
-# five six-sided dice three times?
-
 import random
 
 def yahtzee():

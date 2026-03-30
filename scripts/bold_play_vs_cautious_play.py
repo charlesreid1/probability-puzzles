@@ -4,18 +4,6 @@ Bold Play vs. Cautious Play
 At Las Vegas, a man with $20 needs $40, but he is too embarrassed to wire his wife for more money. He decides to invest in roulette (which he doesn't enjoy playing) and is considering two strategies: bet the $20 on "evens" all at once and quit if he wins or loses, or bet on "evens" one dollar at a time until he has won or lost $20. Compare the merits of the strategies. From: Fifty Challenging Problems in Probability by Frederick Mosteller Problem 37
 """
 
-# Bold Play vs. Cautious Play
-# At Las Vegas, a man with $20 needs $40, but he is too embarrassed to
-# wire his wife for more money. He decides to invest in roulette (which
-# he doesn't enjoy playing) and is considering two strategies: bet the
-# $20 on "evens" all at once and quit if he wins or loses, or bet on
-# "evens" one dollar at a time until he has won or lost $20.
-# Compare the merits of the strategies.
-#
-# From: Fifty Challenging Problems in Probability
-#       by Frederick Mosteller
-#       Problem 37
-
 import random
 
 def bold_play_vs_cautious_play():

@@ -4,14 +4,6 @@ An Even Split at Coin Tossing
 When 100 coins are tossed, what is the probability that exactly 50 are heads? From: Fifty Challenging Problems in Probability by Frederick Mosteller Problem 18
 """
 
-# An Even Split at Coin Tossing
-# When 100 coins are tossed, what is the
-# probability that exactly 50 are heads?
-#
-# From: Fifty Challenging Problems in Probability
-#       by Frederick Mosteller
-#       Problem 18
-
 import random
 
 def even_split():

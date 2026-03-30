@@ -4,22 +4,6 @@ Lonely Card Game
 On snowy afternoons, you like to play a solitaire “game” with a standard, randomly shuffled deck of 52 cards. You start dealing cards face up, one at a time, into a pile. As you deal each card, you also speak aloud, in order, the 13 card faces in a standard deck: ace, two, three, etc. (When you get to king, you start over at ace.) You keep doing this until the rank of the card you deal matches the rank you speak aloud, in which case you lose. You win if you reach the end of the deck without any matches. What is the probability that you win? From: Can You Deal With These Card Game Puzzles? http://fivethirtyeight.com/features/can-you-deal-with-these-card-game-puzzles/
 """
 
-# Lonely Card Game
-#
-# On snowy afternoons, you like to play a solitaire “game” with a standard,
-# randomly shuffled deck of 52 cards. You start dealing cards face up, one
-# at a time, into a pile. As you deal each card, you also speak aloud,
-# in order, the 13 card faces in a standard deck: ace, two, three, etc.
-# (When you get to king, you start over at ace.) You keep doing this
-# until the rank of the card you deal matches the rank you speak aloud,
-# in which case you lose. You win if you reach the end of the deck
-# without any matches.
-#
-# What is the probability that you win?
-#
-# From: Can You Deal With These Card Game Puzzles?
-#       http://fivethirtyeight.com/features/can-you-deal-with-these-card-game-puzzles/
-
 import random
 
 def lonely_card_game():

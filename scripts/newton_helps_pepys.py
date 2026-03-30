@@ -4,16 +4,6 @@ Isaac Newton Helps Samuel Pepys
 Pepys wrote Newton to ask which of three events is more likely: that a person get (a) at least 1 six when 6 dice are rolled, (b) at least 2 sixes when 12 dice are rolled, or (c) at least 3 sixes when 18 dice are rolled. What is the answer? From: Fifty Challenging Problems in Probability by Frederick Mosteller Problem 19
 """
 
-# Isaac Newton Helps Samuel Pepys
-# Pepys wrote Newton to ask which of three events is more likely:
-# that a person get (a) at least 1 six when 6 dice are rolled,
-# (b) at least 2 sixes when 12 dice are rolled, or (c) at least 3
-# sixes when 18 dice are rolled. What is the answer?
-#
-# From: Fifty Challenging Problems in Probability
-#       by Frederick Mosteller
-#       Problem 19
-
 import random
 
 def newton_helps_pepys():

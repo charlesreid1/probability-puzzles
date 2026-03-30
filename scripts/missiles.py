@@ -4,11 +4,6 @@ Missiles
 If a certain missile will hit its target one out of four times, and four such missiles are fired at the same target, what is the probability that the target will be hit?
 """
 
-# Missiles
-# If a certain missile will hit its target one out of four times,
-# and four such missiles are fired at the same target, what is the
-# probability that the target will be hit?
-
 import random
 
 def missiles():

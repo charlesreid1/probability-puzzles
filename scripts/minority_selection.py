@@ -4,13 +4,6 @@ Minority Selection
 What is the probability that no member of a minority party will be selected out of N slots? Example: A certain minority party is 10% of a population. In a random drawing of 10 nominees, what are the odds that no member of the minority party is selected?
 """
 
-# Minority Selection
-# What is the probability that no member of a minority party
-# will be selected out of N slots?
-# Example: A certain minority party is 10% of a population. In a
-# random drawing of 10 nominees, what are the odds that no
-# member of the minority party is selected?
-
 import random
 
 def selection():

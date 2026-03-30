@@ -4,11 +4,6 @@ Dicey Question
 You are about to roll five regular dice. You win if you roll exactly one six. You lose if you roll no sixes. Are you more likely to win than lose, or are you less likely to win than lose?
 """
 
-# Dicey Question
-# You are about to roll five regular dice. You win if you roll exactly
-# one six. You lose if you roll no sixes. Are you more likely to win
-# than lose, or are you less likely to win than lose?
-
 import random
 
 def dicey_question():

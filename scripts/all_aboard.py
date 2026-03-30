@@ -4,17 +4,6 @@ All Aboard
 One hundred people board a 100-seat airplane. The first one has lost his boarding pass, so he sits in a random seat. Each subsequent passenger sits in his own seat if it’s available or takes a random unoccupied seat if it’s not. What’s the probability that the 100th passenger finds his seat occupied? From: Futility Closet http://www.futilitycloset.com/2012/02/29/all-aboard-5/
 """
 
-# All Aboard
-#
-# One hundred people board a 100-seat airplane. The first one has lost
-# his boarding pass, so he sits in a random seat. Each subsequent
-# passenger sits in his own seat if it’s available or takes a random
-# unoccupied seat if it’s not.
-# What’s the probability that the 100th passenger finds his seat occupied?
-#
-# From: Futility Closet
-# http://www.futilitycloset.com/2012/02/29/all-aboard-5/
-
 import random
 
 def all_aboard():

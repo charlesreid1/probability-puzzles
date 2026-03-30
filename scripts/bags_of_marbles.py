@@ -4,14 +4,6 @@ Bags of Marbles
 You have three identical bags, each containing two marbles. Bag A contains two white marbles, bag B contains two black marbles, and Bag C contains one white and one black marble. You pick a bag at random and draw out one marble. If the marble is white, what is the probability that the other marble in the same bag is also white?
 """
 
-# Bags of Marbles
-# You have three identical bags, each containing two marbles.
-# Bag A contains two white marbles, bag B contains two black marbles,
-# and Bag C contains one white and one black marble.
-# You pick a bag at random and draw out one marble. If the marble is white,
-# what is the probability that the other marble in the same bag
-# is also white?
-
 from __future__ import division
 import random
 

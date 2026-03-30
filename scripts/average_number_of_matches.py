@@ -4,17 +4,6 @@ Average Number of Matches
 From a shuffled deck, cards are laid out on a table one at a time, face up from left to right, and then another deck is laid out so that each of its cards is beneath a card of the first deck. What is the average number of matches of the card above and the card below in repetitions of this experiment? From: Fifty Challenging Problems in Probability by Frederick Mosteller Problem 45
 """
 
-# Average Number of Matches
-# From a shuffled deck, cards are laid out on a table one at a time,
-# face up from left to right, and then another deck is laid out so
-# that each of its cards is beneath a card of the first deck.
-# What is the average number of matches of the card above and
-# the card below in repetitions of this experiment?
-#
-# From: Fifty Challenging Problems in Probability
-#       by Frederick Mosteller
-#       Problem 45
-
 import random
 
 def number_of_matches():

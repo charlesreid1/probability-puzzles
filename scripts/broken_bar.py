@@ -4,14 +4,6 @@ The Broken Bar
 A bar is broken at random in two places. Find the average size of the smallest, the middle-sized, and the largest pieces. From: Fifty Challenging Problems in Probability by Frederick Mosteller Problem 43
 """
 
-# The Broken Bar
-# A bar is broken at random in two places. Find the average size of the
-# smallest, the middle-sized, and the largest pieces.
-#
-# From: Fifty Challenging Problems in Probability
-#       by Frederick Mosteller
-#       Problem 43
-
 import random
 
 def broken_bar():

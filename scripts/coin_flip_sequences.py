@@ -4,10 +4,6 @@ Coin Flip Sequences
 When flipping a fair coin until either HTH or HTT is first reached, which sequence will take longer on average?
 """
 
-# Coin Flip Sequences
-# When flipping a fair coin until either HTH or HTT is first reached,
-# which sequence will take longer on average?
-
 import random
 
 def coin_flip_sequences():
